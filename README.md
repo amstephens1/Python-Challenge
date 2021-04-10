@@ -1,1 +1,2 @@
 # Python-Challenge
+The python scripts included in the repository should run through the applicable data to both print the analysis to a terminal as well as write to a text file saved in the analysis folder. 
